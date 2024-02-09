@@ -1,4 +1,4 @@
-<h2 align="center">Hello there👋!<br>My name is Vaishnavi Jadhav <br>I'm an aspiring and passionate data analyst from India.</h2>
+<h2 align="Left">Hello there👋!<br>My name is Vaishnavi Jadhav <br>I'm an aspiring and passionate data analyst from India.</h2>
 
 ###
 
