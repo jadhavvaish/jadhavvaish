@@ -1,47 +1,16 @@
-<br clear="both">
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <h3>Hello there👋!</h3> <!-- Move the greeting message here -->
-    <h3>About Me</h3> <! I am Vaishnavi Jadhav.<br>An aspiring and passionate data analyst from India >
-  </div>
-  <div>
-    <a href="https://www.linkedin.com/in/vaishnavi-jadhav-b6182427b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTnM1ydrxQqKbzBFuHD4jXQ%3D%3D" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-    </a>
-    <a href="jadhavvaishnavi5599@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-    </a>
-  </div>
-</div>
-
-    </a>
-  </div>
-</div>
-
+<h1 align="left">Hello there 👋...</h1>
 
 ###
 
-<br clear="both">
-
-<h3 align="left">Hello there👋!</h3>
+<h3 align="left">I am Vaishnavi Jadhav.<br>Passionate about delving into the fascinating realm of data to uncover insights that drive decisions.</h3>
 
 ###
 
-<br clear="both">
-
-<h3 align="center">👩‍💻   I am Vaishnavi Jadhav.<br>An aspiring and passionate data analyst from India.</h3>
+<p align="left">I am 2023 Computer Engineering graduate from V.E.S Institute of Technology Mumbai.</p>
 
 ###
 
-<br clear="both">
-
-<img align="left" height="250" src="https://www.techyv.com/sites/default/2022/06/users/Proofreader7/Product-Manager-100000.jpg"  />
-
-###
-
-<br clear="both">
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -56,17 +25,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="250" src="https://www.techyv.com/sites/default/2022/06/users/Proofreader7/Product-Manager-100000.jpg"  />
 </div>
 
 ###
