@@ -1,6 +1,6 @@
 <br clear="both">
-
 <div align="right">
+  <h3>Hello there👋!</h3> <👩‍💻 I am Vaishnavi Jadhav.An aspiring and passionate data analyst from India>
   <a href="https://www.linkedin.com/in/vaishnavi-jadhav-b6182427b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTnM1ydrxQqKbzBFuHD4jXQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
