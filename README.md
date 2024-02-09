@@ -1,8 +1,8 @@
-<h2 align="left">Hello there👋!<br>My name is Vaishnavi Jadhav and I'm an aspiring and passionate data analyst from India.</h2>
+<h2 align="center">Hello there👋!<br>My name is Vaishnavi Jadhav <br>I'm an aspiring and passionate data analyst from India.</h2>
 
 ###
 
-<img align="right" height="200" src="https://1353475571-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhFAmY4z7d1R15Cv49vXQ%2Fuploads%2FvNKQdCxFazh4f0dkIRcI%2FDALL%C2%B7E%202023-10-07%2017.57.44%20-%20Illustration%20of%20a%20collaborative%20research%20environment.%20A%20male%20scientist%20with%20European%20descent%20and%20a%20female%20scientist%20with%20South%20Asian%20descent%20are%20discu.png?alt=media&token=e9be6524-f8e9-428c-a136-05dc17c041ea"  />
+<img align="right" height="250" src="https://www.techyv.com/sites/default/2022/06/users/Proofreader7/Product-Manager-100000.jpg"  />
 
 ###
 
