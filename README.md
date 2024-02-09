@@ -1,12 +1,19 @@
 <br clear="both">
-<div style="display: flex; align-items: center;">
-  <h3>Hello there👋!</h3> <!-- Move the greeting message here -->
-  <div align="right">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h3>Hello there👋!</h3> <!-- Move the greeting message here -->
+    <h3>About Me</h3> <! I am Vaishnavi Jadhav.<br>An aspiring and passionate data analyst from India >
+  </div>
+  <div>
     <a href="https://www.linkedin.com/in/vaishnavi-jadhav-b6182427b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTnM1ydrxQqKbzBFuHD4jXQ%3D%3D" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     </a>
     <a href="jadhavvaishnavi5599@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    </a>
+  </div>
+</div>
+
     </a>
   </div>
 </div>
