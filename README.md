@@ -17,13 +17,15 @@
 
 ###
 
-<h3 align="left">👩‍💻   I am Vaishnavi Jadhav.<br>An aspiring and passionate data analyst from India.</h3>
+<br clear="both">
+
+<h3 align="center">👩‍💻   I am Vaishnavi Jadhav.<br>An aspiring and passionate data analyst from India.</h3>
 
 ###
 
-<div align="right">
-  <img height="150" src="https://www.techyv.com/sites/default/2022/06/users/Proofreader7/Product-Manager-100000.jpg"  />
-</div>
+<br clear="both">
+
+<img align="left" height="250" src="https://www.techyv.com/sites/default/2022/06/users/Proofreader7/Product-Manager-100000.jpg"  />
 
 ###
 
@@ -56,8 +58,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
 </div>
-
-###
-
 
 ###
