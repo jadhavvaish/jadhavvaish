@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Vaishnavi Jadhav</h1>
 <h3 align="center">An aspiring and Passionate Data Analyst/Business Analyst from India</h3>
 
