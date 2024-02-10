@@ -47,8 +47,4 @@
 
 ###
 
-<div align="center">
-  <img height="250" src="https://www.techyv.com/sites/default/2022/06/users/Proofreader7/Product-Manager-100000.jpg"  />
-</div>
-
 ###
