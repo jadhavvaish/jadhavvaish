@@ -4,7 +4,7 @@
 
 - 📫 Reach me at: **jadhavvaishnavi5599@gmail.com**
 
-<p align="left">I am 2023 Computer Engineering graduate from V.E.S Institute of Technology Mumbai.</p>
+
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
